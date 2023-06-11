@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hi there 🛰️ 🏞
 
-<!--
-**jdavecas/jdavecas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm currently doing my Ph.D at the [University of North Carolina at Chapel Hill](https://www.unc.edu/), in the [Global Hydrology Lab](https://uncglobalhydrology.org).
 
-Here are some ideas to get you started:
+## Ongoing projects
+1. Water quality (Total Suspended Sediments) and Remote sensing
+
+2. Hydraulic Geometry from SWOT: Width (stage)/depth ratio
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
