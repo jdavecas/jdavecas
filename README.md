@@ -10,4 +10,8 @@
 
 2. Hydraulic Geometry from SWOT: Width (stage)/depth ratio
 
+## Past projects (and they need improvements)
 
+1. Simple GEE app to track the area of the Sierra Nevada de Santa Marta's Glacier
+
+[![](https://upload.wikimedia.org/wikipedia/commons/5/54/Map_of_Sierra_Nevada_de_Santa_Marta.png)](https://ejdvc757.users.earthengine.app/view/sierra-nevada-de-santa-marta-glacier)
